@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @xkuhkii
+- 👀 I’m develop in Python, C#, JavaScript, CSS, and HTML.
+- 🌱 I’m currently learning Haskell.
+- 📫 You can reach me through Discord - Avid Light Mode Leader#2934
